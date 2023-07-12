@@ -1,0 +1,117 @@
+.div1{
+     background-image: url(technolo.jpg);
+     background-size: cover;
+     background-attachment: fixed;
+}
+.text12{
+    font-size: 100px;
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.315);
+    padding-bottom: 150px;
+    padding-top: 20px;
+}
+.div3{
+    background-image: url(back1.png);
+}
+h3{
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgba(128, 128, 128, 0.466);
+}
+h4{
+    text-align: center;
+    margin-top: 30px;
+    background-color: rgba(128, 128, 128, 0.363);
+}
+.img2{
+    height: 100%;
+    width: 100%;
+    outline: 2px solid rgb(172, 172, 172);
+}
+.img2:hover{
+    outline: 2px solid black;
+    cursor: pointer;
+}
+.div1{
+    margin: 15px;
+}
+.div4{
+    margin: 20px;
+}
+.img3{
+    height:90%;
+    outline: 2px solid rgb(172, 172, 172);
+}
+.img3:hover{
+    outline: 2px solid black;
+    cursor: pointer;
+}
+.div5{
+margin-top: 20px;
+    }
+.img4{
+    height:90%;
+    outline: 2px solid rgb(172, 172, 172);
+}
+.img4:hover{
+    outline: 2px solid black;
+    cursor: pointer;
+}
+.text1{
+    text-align: center;
+    padding-top: 50px;
+    font-style:italic;
+}
+h3{
+    margin-top: 100px;
+    color: white;
+    font-size: 20px;
+}
+.btnn{
+    margin-top: 50px;
+    margin-left: 100px;
+    border-radius: 30px;
+}
+
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    text-align: left;
+    color: white;
+}
+h4{
+    color: white;
+    text-align: center;
+}
+.div8{
+    padding-top: 40px;
+    text-align: center;
+}
+.icon{
+    height: 20px;
+    width: 20px;
+    margin: 10px;
+    outline: 1px solid rgb(48, 46, 46);
+}
+.i1{
+    margin-left: 30px;
+}
+.icon:hover{
+    outline: 1px solid white;
+    cursor: pointer;
+}
+h5{
+    color: white;
+    text-align: center;
+}
+.ftr{
+    padding-top: 1px;
+    margin:1px;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    background-color: rgb(19, 7, 27);
+}

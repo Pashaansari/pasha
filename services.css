@@ -1,0 +1,120 @@
+.div1{
+    background-image: url(bg2.jpg);
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+h1{
+    font-size: 70px;
+    padding-top: 100px;
+}
+h6{
+    font-size: 25px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+h2{
+    color: blueviolet;
+    text-align: center;
+    padding-top: 30px;
+}
+h5{
+    text-align: center;
+    padding-top: 100px;
+    font-style: italic;
+}
+.hh1{
+    padding-top: 40px;
+    padding-bottom: 100px;
+}
+.rp1{
+    background-color: rgb(7, 7, 24);
+    height: 80px;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+.rp2{
+    background-color: rgb(17, 17, 29);
+    height: 450px;
+    color: white;
+}
+img{
+    float: left;
+}
+pre{
+    float: left;
+    font-size: 25px;
+    margin: top 20px;
+}
+p{
+    padding-top: 140px;
+    text-align: left;
+}
+.div3{
+    background-color: rgb(32, 32, 59);
+}
+.img22{
+    padding-top: 180px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+h3{
+    color: white;
+    padding-top: 40px;
+}
+.hh3{
+    font-size: large;
+    padding-top: 60px;
+}
+.img33{
+    margin: 10px;
+}
+.BTNN{
+    border-radius: 30PX;
+   margin-bottom: 50px;
+   background-color: rgb(80, 80, 253);
+   color: white;
+   margin-top: 30px;
+}
+
+
+
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    text-align: left;
+    color: white;
+}
+h4{
+    color: white;
+    text-align: center;
+}
+.div8{
+    padding-top: 40px;
+    text-align: center;
+}
+.icon{
+    height: 20px;
+    width: 20px;
+    margin: 10px;
+    outline: 1px solid rgb(48, 46, 46);
+}
+.i1{
+    margin-left: 30px;
+}
+.icon:hover{
+    outline: 1px solid white;
+    cursor: pointer;
+}
+.ftr{
+    padding-top: 1px;
+    margin:1px;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    background-color: rgb(19, 7, 27);
+}
